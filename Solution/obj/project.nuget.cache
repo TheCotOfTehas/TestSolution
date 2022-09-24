@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "piz1C/dlmGVQUAMCF7sA++mf2Nt3WRf3U8CI2DedKYl70RZPVil4Q8sQFOpZzb89YzsA8FcTxB+jltt4lAvZiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsebr\\source\\repos\\TestSolution\\Solution\\Solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsebr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
